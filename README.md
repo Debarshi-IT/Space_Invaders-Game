@@ -12,18 +12,25 @@
 1.Objective: Players control a laser cannon, tasked with defending Earth from waves of alien invaders descending from the top of the screen. The goal is to destroy all the invaders before they reach the bottom.
 
 2. Player Controls:
+
 i. The cannon moves horizontally along the bottom of the screen.
+
 ii. The player fires projectiles upwards to eliminate the advancing aliens.
 
 3. Alien Behavior:
+
 i. Aliens move in a grid pattern, shifting left and right while descending towards the player.
+
 ii. Their movement speed increases as fewer aliens remain, creating a sense of escalating tension.
+
 iii. Mystery Ship: A special "mystery ship" occasionally flies across the top of the screen, offering bonus points if hit.
 
 4. Obstacles: The player is shielded by destructible barriers, which provide temporary protection against alien projectiles but degrade with each hit.
 
 5. Game Over: The game ends if:
+
 i. An alien reaches the bottom of the screen.
+
 ii. The player loses all their lives by being hit by alien projectiles.
 
 # Technical and Design Innovations
@@ -38,8 +45,11 @@ ii. The player loses all their lives by being hit by alien projectiles.
 1. Popularity: "Space Invaders" became an instant success, with arcade cabinets drawing crowds of players and generating long lines. In Japan, the game was so popular that it allegedly caused a temporary shortage of 100-yen coins.
 2. Revenue: By 1980, "Space Invaders" had generated over $3.8 billion in revenue (equivalent to over $13 billion today), making it one of the highest-grossing games of all time.
 3. Legacy:
+
 i. The game inspired numerous sequels, spin-offs, and clones.
+
 ii. It helped solidify video games as a mainstream form of entertainment.
+
 iii. Its gameplay mechanics, such as progressive difficulty, became foundational to game design.
 
 # Cultural Significance
