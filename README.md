@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4da73393-0b5d-495b-aa9b-359564c57dca) 
+![image](https://github.com/user-attachments/assets/4da73393-0b5d-495b-aa9b-359564c57dca) ![image](https://github.com/user-attachments/assets/e18f9e73-c90a-4cce-9cb2-a984744066a2)
+
 
 # Introduction
 "Space Invaders" is one of the most iconic and groundbreaking video games in the history of gaming. Developed by Japanese game designer Tomohiro Nishikado and released by Taito Corporation in 1978, the game became a cultural phenomenon and set the stage for the global arcade gaming boom of the late 1970s and early 1980s.
